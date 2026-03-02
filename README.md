@@ -1,4 +1,4 @@
-# 📱 Sponsored Ads Manager – Client Production Application
+# 📱 Markting Ads Manager – Client Production Application
 
 🔗 **Live on Amazon Appstore**  
 https://www.amazon.com/Ahmed-Mohamed-Bolo-Markting/dp/B0FSDYLWZZ/
@@ -7,7 +7,7 @@ https://www.amazon.com/Ahmed-Mohamed-Bolo-Markting/dp/B0FSDYLWZZ/
 
 ## 🚀 Overview
 
-**Sponsored Ads Manager** is a production-level Android application developed for a real client and successfully published on the Amazon Appstore.
+**Markting Ads Manager** is a production-level Android application developed for a real client and successfully published on the Amazon Appstore.
 
 The system consists of:
 
