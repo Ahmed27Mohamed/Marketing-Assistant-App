@@ -28,6 +28,14 @@ This project demonstrates production-level architecture, real-world deployment, 
 
 ---
 
+## 📸 Screenshots
+
+![Login Screen](https://m.media-amazon.com/images/I/9181sS-3-tL.png)
+![Home Screen](https://m.media-amazon.com/images/I/91RPieyq1ML.png)
+![Ads Screen](https://m.media-amazon.com/images/I/91Zd4cR2+YL.png)
+
+---
+
 ## 📱 Mobile Application Features
 
 - Firebase Authentication (secure login system)
