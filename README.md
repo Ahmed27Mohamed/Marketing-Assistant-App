@@ -45,7 +45,7 @@ This project demonstrates production-level architecture, real-world deployment, 
 
 [Watch Demo 1]
 
-https://github.com/user-attachments/assets/7f553f8e-4ab7-4ae9-b275-5685a738fa0f
+https://github.com/user-attachments/assets/8e39a00e-12ab-47fc-993b-e06268d35e11
 
 [Watch Demo 2]
 
