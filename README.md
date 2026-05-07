@@ -34,6 +34,19 @@ This project demonstrates production-level architecture, real-world deployment, 
 ![Home Screen](https://m.media-amazon.com/images/I/91RPieyq1ML.png)
 ![Ads Screen](https://m.media-amazon.com/images/I/91Zd4cR2+YL.png)
 
+## 📸 Desktop App Screenshots
+![Home Screen1](<img width="205" height="495" alt="1" src="https://github.com/user-attachments/assets/dbcc1ef0-ea84-4f86-9068-4f1524b149e7" />)
+![Home Screen2](<img width="516" height="379" alt="2" src="https://github.com/user-attachments/assets/9f71d62b-3404-45b3-a43e-5d00948a8f57" />)
+![Home Screen3](<img width="400" height="457" alt="3" src="https://github.com/user-attachments/assets/35d055e2-ff1b-4e8c-9e25-9370b1e90594" />)
+
+---
+
+## 🎥 Demo Video
+
+![Watch Demo 1](https://github.com/user-attachments/assets/7f553f8e-4ab7-4ae9-b275-5685a738fa0f)
+
+![Watch Demo 2](https://github.com/user-attachments/assets/a219168d-c330-4566-b465-aad6b5fb3815)
+
 ---
 
 ## 📱 Mobile Application Features
